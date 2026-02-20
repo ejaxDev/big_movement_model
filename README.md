@@ -122,8 +122,6 @@ This project is provided as-is for educational and research purposes.
 
 - [ ] Incorporate additional market regime indicators
 - [ ] Test on other equity indices and ETFs
-- [ ] Develop real-time prediction pipeline
-- [ ] Add multi-timeframe analysis
 - [ ] Implement transaction cost modeling
 - [ ] Create web dashboard for visualization
 
